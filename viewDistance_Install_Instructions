@@ -1,0 +1,31 @@
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+All credit for this script goes to Ghostrider [GRG] - Visit Ghostriders github at: https://github.com/Ghostrider-DbD-
+Install instructions by Nicho1494.
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+//GRG View-Distance-Epoch//
+	
+//Step 1;
+
+	Download the file "viewDistance_For_Epoch-main" and extract it to your documents.
+	
+	Unpack your MPMission - epoch.Altis.pbo (Changes dependable on the map you are using)
+
+//Step 2;
+	
+	Copy the addons file and place it in the main epoch.Altis.pbo file (Or copy the contents to your addons folder)
+	
+	Merge the description.ext and init.sqf files with those already in your MPMissions file. (If you do not have an init.sqf already, just copy and paste the one included).
+	
+	Merge the CfgEpad.hpp file with the file in your epoch.Altis file - "epoch.Altis\epoch_config\Configs\CfgEPad.hpp"
+
+//Step 3;
+
+	Repack your MPMission file and upload to your server.
+	
+	Restart your server and ensure no errors are present in your RPT. Also Keep an eye on BE bans as exeptions may have to be added.
+
+Additional scripts are avalible from GhostriderGaming [GRG] - Find the link at the top of this file!
+
+	
+//////////////////////////////////////////////////////////////////////////////////////////////////////
